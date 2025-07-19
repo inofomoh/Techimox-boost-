@@ -1,2 +1,1 @@
-# Techimox-boost-
-AI power phone cleaner app with boost voice and pro features 
+# Techimox App - Flutter Cleaner App with Voice Boost & Pro
